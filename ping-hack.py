@@ -23,7 +23,7 @@ print("""
 
 sleep(1)
 
-print('\033[0;32;m \n   METEDO PING\033[m')
+print('\033[0;32;m \n   METÉDO PING\033[m')
 
 sleep(1)
 
